@@ -19,7 +19,10 @@ class TileContainer extends Component {
           <Tile />
           <Tile />
         </div>
-        <div className="tileContainer_item" />
+        <div className="tileContainer_item titleContainer_item__twoItems">
+          <Tile />
+          <Tile />
+        </div>
         <div className="tileContainer_item" />
         <div className="tileContainer_item" />
         <div className="tileContainer_item" />

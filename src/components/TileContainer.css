@@ -20,3 +20,6 @@
 .titleContainer_item__fourItems {
   grid-template-columns: repeat(2, 1fr);
 }
+.titleContainer_item__twoItems {
+  grid-template-row: 1fr 1fr;
+}
