@@ -7,3 +7,9 @@
 .header-item {
   border: 1px solid white;
 }
+.header-item-text {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  color: white;
+}
