@@ -5,10 +5,10 @@ class Header extends Component {
   render() {
     return (
       <div className="header">
-        <div className="header-item">
-          <p className="header-item-text">Start</p>
+        <div className="header_item">
+          <p className="header_item_text">Start</p>
         </div>
-        <div className="header-item" />
+        <div className="header_item" />
       </div>
     );
   }

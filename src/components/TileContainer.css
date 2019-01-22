@@ -10,8 +10,7 @@
 
 .tileContainer_item {
   display: grid;
-  background-color: yellow;
-  border: 1px solid blueviolet;
+  border: 1px solid white;
   height: 300px;
   width: 300px;
   grid-gap: 5px;

@@ -14,10 +14,10 @@ class TileContainer extends Component {
     return (
       <div className="tileContainer">
         <div className="tileContainer_item titleContainer_item__fourItems">
-          <Tile />
-          <Tile />
-          <Tile />
-          <Tile />
+          <Tile color="blue-light" />
+          <Tile color="green-light" />
+          <Tile color="purple-dark" />
+          <Tile color="orange-light" />
         </div>
         <div className="tileContainer_item titleContainer_item__twoItems">
           <Tile />
