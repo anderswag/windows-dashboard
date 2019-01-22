@@ -1,0 +1,22 @@
+.tileContainer {
+  display: grid;
+  width: 900px;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  /* grid-template-rows: 1fr 1fr 1fr; */
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+}
+
+.tileContainer_item {
+  display: grid;
+  background-color: yellow;
+  border: 1px solid blueviolet;
+  height: 300px;
+  width: 300px;
+  grid-gap: 5px;
+}
+
+.titleContainer_item__fourItems {
+  grid-template-columns: repeat(2, 1fr);
+}
