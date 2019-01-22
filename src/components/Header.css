@@ -1,0 +1,9 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 200px;
+}
+
+.header-item {
+  border: 1px solid white;
+}
